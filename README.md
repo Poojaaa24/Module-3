@@ -16,6 +16,7 @@ print(total)
 ~~~
 
 
+
 ## Output
 <img width="272" height="115" alt="438833141-ae34950b-a538-42f3-bad0-a44b735d64c0" src="https://github.com/user-attachments/assets/28e95bf1-5f17-4fb3-8b27-35b2f9130599" />
 
